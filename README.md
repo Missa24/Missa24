@@ -1,177 +1,136 @@
+<div align="center">
 👋 ¡Hola! Soy Missael Apaza
-💻 Frontend Developer · React · Next.js · TypeScript
+Frontend Developer · React · Next.js · TypeScript
+<p> <i>Construyendo interfaces modernas · Explorando nuevas tecnologías · Compartiendo conocimiento</i> </p> <br> <a href="https://github.com/Missa24"> <img src="https://img.shields.io/badge/GitHub-Missa24-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:missaelapaza@gmail.com"> <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+🚀 Sobre mí
 
-Soy Licenciado en Informática apasionado por el desarrollo de software y la construcción de aplicaciones web modernas.
+Soy Licenciado en Informática, apasionado por el desarrollo de software y especialmente por la creación de aplicaciones web modernas.
 
-Mi enfoque principal está en el desarrollo Frontend con React, Next.js y TypeScript, creando interfaces responsivas, componentes reutilizables y aplicaciones mantenibles.
+Mi principal enfoque está en el ecosistema React / Next.js / TypeScript, donde me interesa construir interfaces:
 
-También tengo experiencia trabajando con Backend, APIs REST y bases de datos, lo que me permite comprender el desarrollo de una aplicación más allá de la interfaz.
+🎨 Limpias y responsivas
 
-🎓 Informática & Educación · ⚛️ React/Next.js · 🚀 Always Learning
+🧩 Basadas en componentes reutilizables
 
-🧑‍💻 Sobre mí
+⚡ Rápidas y eficientes
 
-⚛️ Mi principal enfoque: React + Next.js + TypeScript
+🔌 Integradas con APIs REST
 
-🎨 Me interesa crear interfaces limpias, responsivas y escalables
+🏗️ Organizadas y mantenibles
 
-🔌 Experiencia integrando y consumiendo APIs REST
+También cuento con conocimientos de Backend, bases de datos y arquitectura de software, lo que me permite comprender una aplicación desde el frontend hasta los servicios que la soportan.
 
-🛠️ Conocimientos de Backend y bases de datos
+Actualmente estoy enfocado en seguir evolucionando como Frontend Developer, profundizando en React, Next.js, TypeScript y buenas prácticas de arquitectura.
 
-📱 Explorando React Native + Expo y Flutter
-
-🧠 Interesado en arquitectura, buenas prácticas y código mantenible
-
-👨‍🏫 Apasionado por la enseñanza de informática
-
-🚀 Actualmente enfocado en seguir creciendo como Frontend Developer
-
-⚡ Tech Stack
+🛠️ Tech Stack
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,nuxt,tailwind,html,css" /> </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vue,nuxt,tailwind,html,css" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </div>
 ⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,flask,django,cs,dotnet" /> </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,flask,django,cs,dotnet" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/C%23/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </div>
 📱 Mobile
-<p> <img src="https://skillicons.dev/icons?i=react,flutter" /> </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,flutter" />
 
-React Native · Expo · Flutter
+<br><br>
 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> </div>
 🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
-🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" /> </p>
-🚀 En qué estoy trabajando
+<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlserver" />
 
-Actualmente estoy profundizando principalmente en:
+<br><br>
 
-⚛️ React
-   ├── Component Architecture
-   ├── State Management
-   ├── Custom Hooks
-   ├── Performance
-   └── Reusable Components
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </div>
+🧰 Tools & Ecosystem
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,wordpress" />
 
-▲ Next.js
-   ├── App Router
-   ├── Server Components
-   ├── Server Actions
-   ├── Authentication
-   └── Full-Stack Applications
+<br><br>
 
-📘 TypeScript
-   ├── Advanced Types
-   ├── Type Safety
-   ├── API Integration
-   └── Scalable Code
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </div>
+🧠 Desarrollo
+<table align="center"> <tr> <td width="50%" valign="top">
+⚛️ Frontend
+React
+Next.js
+TypeScript
+JavaScript
+Vue
+Tailwind CSS
+Responsive Design
+Component Architecture
 
-📱 Mobile
-   ├── React Native
-   ├── Expo
-   └── Flutter
+</td> <td width="50%" valign="top">
+🔌 Backend
+Node.js
+NestJS
+Python
+Flask
+C# / .NET
+REST APIs
+PostgreSQL
+Prisma
 
-📌 Proyectos destacados
+</td> </tr> </table>
+📱 Explorando Mobile
+<div align="center">
+React Native  →  Expo  →  Flutter
 
-Aquí encontrarás proyectos que representan mi proceso de aprendizaje y evolución como desarrollador.
 
-⚛️ React / Next.js
+Actualmente explorando el desarrollo móvil y trasladando mi experiencia del ecosistema React hacia aplicaciones multiplataforma.
 
-Aplicaciones web enfocadas en arquitectura frontend, componentes reutilizables, manejo de estado, consumo de APIs y experiencia de usuario.
+</div>
+🎓 Educación & Tecnología
 
-Tecnologías:
-React Next.js TypeScript Tailwind CSS
+Además del desarrollo de software, tengo un fuerte interés por la educación tecnológica.
 
-🔗 Demo · 💻 Código
+Soy Licenciado en Informática y cuento con formación en Educación Superior e Inteligencia Artificial.
 
-🌐 Full Stack
+La docencia es una parte importante de mi perfil: disfruto explicar conceptos, compartir conocimiento y ayudar a otras personas a comprender la tecnología.
 
-Aplicaciones que integran un frontend moderno con servicios backend, APIs REST y bases de datos.
+💡 Aprender algo es bueno. Entenderlo lo suficiente para poder enseñarlo es aún mejor.
 
-Tecnologías:
-React Next.js Node.js NestJS PostgreSQL
+📌 Proyectos
+<div align="center">
+🚀 Mis proyectos
+</div>
 
-🔗 Demo · 💻 Código
+Aquí encontrarás proyectos enfocados principalmente en:
 
-📱 Mobile
+⚛️ Aplicaciones con React / Next.js
 
-Proyectos desarrollados para explorar el ecosistema mobile utilizando React Native, Expo y Flutter.
+🔌 Integración con APIs REST
 
-Tecnologías:
-React Native Expo TypeScript Flutter
+🏗️ Arquitectura y organización de aplicaciones
 
-🔗 Demo · 💻 Código
+📱 Desarrollo móvil con React Native / Expo
 
-🧠 Conocimientos
+🐍 Soluciones Backend
 
-Frontend
+🗄️ Aplicaciones conectadas a bases de datos
 
-React · Next.js · TypeScript · JavaScript · Vue · Tailwind CSS
+⭐ Proyectos destacados
 
-Backend
-
-Node.js · NestJS · Python · Flask · Django · C#/.NET
-
-Data
-
-PostgreSQL · MySQL · SQL Server · MongoDB
-
-ORM
-
-Prisma · SQLAlchemy · Entity Framework · Mongoose
-
-Architecture & APIs
-
-REST APIs · Microservices · API Integration · Software Architecture
-
-👨‍🏫 Más allá del código
-
-Además del desarrollo de software, tengo especial interés en la educación tecnológica.
-
-Me gusta aprender, investigar y posteriormente compartir conocimientos con otras personas.
-
-He participado en actividades relacionadas con:
-
-📚 Programación y estructuras de datos
-
-💻 Sistemas operativos
-
-🏗️ Análisis y diseño de sistemas
-
-🎓 Formación universitaria
-
-🤖 Tecnología e Inteligencia Artificial
-
-Mi objetivo es combinar eventualmente desarrollo de software + educación tecnológica.
+Esta sección se actualizará con mis proyectos principales y aquellos que representen mejor mis habilidades actuales.
 
 📊 GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Missa24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Missa24&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Missa24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Missa24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Missa24&theme=tokyonight&hide_border=true" /> </div>
 🌱 Actualmente aprendiendo
-React / Next.js
-████████████████████░ 90%
-
-TypeScript
-███████████████████░░ 85%
-
-Backend
-████████████████░░░░░ 75%
-
-React Native / Expo
-██████████████░░░░░░░ 65%
-
-Flutter
-████████████░░░░░░░░░ 55%
-
-
-Estos porcentajes representan mis áreas actuales de enfoque y aprendizaje.
-
+<div align="center">
+Área	Enfoque
+⚛️ React	Arquitectura · Performance · Patterns
+▲ Next.js	App Router · Server Components · Full Stack
+📘 TypeScript	Tipado avanzado · Escalabilidad
+🏗️ Software Architecture	Clean Code · Diseño · Buenas prácticas
+📱 React Native	Mobile · Expo · Cross-platform
+🦋 Flutter	Desarrollo multiplataforma
+</div>
 📫 Contacto
-
-📧 missaelapaza@gmail.com
-
-💻 GitHub: github.com/Missa24
-
-<p align="center">
-💻 Building software.
-🎓 Sharing knowledge.
-🚀 Always learning.
-</p>
+<div align="center"> <a href="mailto:missaelapaza@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Missa24"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
+💻 Build. Learn. Teach. Repeat.
+<img src="https://komarev.com/ghpvc/?username=Missa24&style=flat-square&color=6366F1&label=Profile+Views" /> </div>
